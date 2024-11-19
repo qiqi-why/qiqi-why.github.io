@@ -161,7 +161,7 @@ img{
 
 
 footer {
-    background-color: #C5C3C6;  /* 使用你之前选择的深灰色 */
+    background-color: #C5C3C6;
     color: #4C5C68; 
 }
 
@@ -190,7 +190,7 @@ footer ul li {
 
 
 
-/* 样式保持不变 */
+
 .card-custom {
     transition: all 0.4s ease;
     height: 100%;
@@ -220,7 +220,7 @@ footer ul li {
     background-color: var(--color-base);
 }
 
-/* 响应式调整 */
+
 @media (max-width: 768px) {
     .project-image img {
         height: 200px;
